@@ -1,0 +1,87 @@
+/* landing page Top nav style */
+.navbar{
+    padding: 20px 20px;
+    background: #fff;
+    border: 0px solid #fff;
+}
+.nav, .navbar-toggle{
+    margin-top: 3%;
+}
+.navbar-toggle{
+    margin-top: 10%;
+    background: #0C754A;
+}
+.navbar-default .navbar-toggle:hover{
+    background: #0C754A;
+}
+
+.icon-bar {
+    color: #fff;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #0c754a; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.navbar-default .navbar-toggle {
+    border-color: #0c754a;
+}
+.navbar-collaspe{
+    height: 100px;
+}
+
+/* landing page main section style */
+.main-section{
+    background: url('/lnq/images/lnq1.jpg');
+    background-attachment: scroll;
+    padding:20px 20px;
+    border-radius: 15px 200px;
+}
+#mainHead{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    color: #0C754A;
+    margin-top: 10%;
+    margin-left:10%; 
+}
+#mainP{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size:13px;
+    color: #fff;
+    margin-left:10%;
+}
+#getStarted{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    margin-left: 10%;
+    margin-top: 2%;
+    background: transparent;
+    border: 2px solid #0C754A;
+    border-radius:0px;
+    padding: 15px 15px;
+}
+#getStarted span{
+    color: #0c754a;
+}
+
+.main-section2{
+    padding:20px 20px;
+}
+#subHead{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:  25px;
+    margin-top: 2%;
+    margin-left: 40%;
+    color: darkslategrey;
+}
+#subP{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size:13px;
+    color: darkslategray;
+    margin-left:15%;
+}
